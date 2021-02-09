@@ -23,7 +23,7 @@ namespace TarkovPriceCrawler
 
         private void btnConsultar_Click(object sender, EventArgs e)
         {
-            
+            dgvPrecios.Rows.Clear();
             startCrawl(dgvPrecios);
         }
 
@@ -58,6 +58,12 @@ namespace TarkovPriceCrawler
             {
                 dgvPrecios.Rows.Add(precio.getEdition(), precio.getPrecio());
             }
+        }
+
+        private void mainForm_Load(object sender, EventArgs e)
+        {
+            dgvPrecios.Rows.Clear();
+            startCrawl(dgvPrecios);
         }
     }
 }

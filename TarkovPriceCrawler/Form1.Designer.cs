@@ -81,6 +81,7 @@
             this.Controls.Add(this.btnConsultar);
             this.Name = "mainForm";
             this.Text = "EFT Price Crawler";
+            this.Load += new System.EventHandler(this.mainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvPrecios)).EndInit();
             this.ResumeLayout(false);
 
