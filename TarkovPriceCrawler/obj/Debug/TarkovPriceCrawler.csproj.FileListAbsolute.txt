@@ -1,0 +1,13 @@
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\TarkovPriceCrawler.exe.config
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\TarkovPriceCrawler.exe
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\TarkovPriceCrawler.pdb
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.csprojAssemblyReference.cache
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.mainForm.resources
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.Properties.Resources.resources
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.csproj.GenerateResource.cache
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.exe
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.pdb
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Federico\Desktop\Repos\TarkovPriceCrawler\TarkovPriceCrawler\obj\Debug\TarkovPriceCrawler.csproj.CopyComplete
